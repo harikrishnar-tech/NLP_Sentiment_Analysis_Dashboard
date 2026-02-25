@@ -17,8 +17,8 @@ This project is an **NLP Sentiment Analysis Dashboard** that allows customers to
 ### 2. **Admin Dashboard** 🖥️
    - **Admin Login** 🔑:
      - The admin can log in using the credentials:
-       - **Username**: `Girijesh` 🧑‍💼
-       - **Password**: `User1` 🔒
+       - **Username**: `Hari` 🧑‍💼
+       - **Password**: `User2` 🔒
    - **Dashboard** 📊:
      - The admin can view the reviews submitted by customers.
      - The dashboard shows the percentage breakdown of feedback:
